@@ -1,0 +1,17 @@
+{
+  "nama": "Maulana Sujarwadi",
+  "akurasi": 50.09,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "confusion_matrix": {
+    "correct": 7,
+    "incorrect": 0,
+    "total": 7
+  },
+  "confusion_matrix_image": "static\\Maulana Sujarwadi\\confusion_matrix_Maulana Sujarwadi.png",
+  "metrics_chart": "static\\Maulana Sujarwadi\\metrics_chart_Maulana Sujarwadi.png",
+  "pie_chart": "static\\Maulana Sujarwadi\\pie_chart_Maulana Sujarwadi.png",
+  "tsne_image": "static\\Maulana Sujarwadi\\tsne_Maulana Sujarwadi.png",
+  "keterangan": "Berdasarkan hasil evaluasi terhadap data valid atas nama Maulana Sujarwadi, Sistem berhasil mengenali wajah dengan akurasi 50.09% dan F1-score 1.0. Seluruh metrik (Precision dan Recall) berada di atas 1.0, menunjukkan stabilitas sistem. Confusion Matrix  dan visualisasi t-SNE memperlihatkan sebaran embedding wajah yang terpisah jelas, memperkuat bahwa sistem mampu membedakan identitas dengan baik."
+}

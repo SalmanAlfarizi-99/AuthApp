@@ -1,0 +1,17 @@
+{
+  "nama": "Salman Al farizi",
+  "akurasi": 88.08,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "confusion_matrix": {
+    "correct": 14,
+    "incorrect": 0,
+    "total": 14
+  },
+  "confusion_matrix_image": "static\\Salman Al farizi\\confusion_matrix_Salman Al farizi.png",
+  "metrics_chart": "static\\Salman Al farizi\\metrics_chart_Salman Al farizi.png",
+  "pie_chart": "static\\Salman Al farizi\\pie_chart_Salman Al farizi.png",
+  "tsne_image": "static\\Salman Al farizi\\tsne_Salman Al farizi.png",
+  "keterangan": "Berdasarkan hasil evaluasi terhadap data valid atas nama Salman Al farizi, Sistem berhasil mengenali wajah dengan akurasi 88.08% dan F1-score 1.0. Seluruh metrik (Precision dan Recall) berada di atas 1.0, menunjukkan stabilitas sistem. Confusion Matrix  dan visualisasi t-SNE memperlihatkan sebaran embedding wajah yang terpisah jelas, memperkuat bahwa sistem mampu membedakan identitas dengan baik."
+}
